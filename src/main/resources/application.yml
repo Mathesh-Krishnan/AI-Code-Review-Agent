@@ -1,2 +1,8 @@
 server:
   port: 8080
+llm:
+  mode: python
+
+python:
+  service:
+    url: http://localhost:8000

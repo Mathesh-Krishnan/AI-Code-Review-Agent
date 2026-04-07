@@ -3,12 +3,12 @@ package org.example.aicodeagent.llm;
 import org.example.aicodeagent.analyzer.CodeSignal;
 import org.example.aicodeagent.model.CodeIssue;
 import org.example.aicodeagent.model.ReviewResponse;
-import org.springframework.stereotype.Component;
+//import org.springframework.stereotype.Component;
 
 import java.util.ArrayList;
 import java.util.List;
 
-@Component
+//@Component
 public class OpenAIClient implements LLMClient {
 
     @Override
