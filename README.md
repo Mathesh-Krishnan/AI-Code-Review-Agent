@@ -176,4 +176,5 @@ Frontend UI for code submission and review display
 
 
 🏁 Conclusion
+
 This project demonstrates a production-minded, polyglot microservice architecture combining Java Spring Boot and Python FastAPI with real Google Gemini AI integration. It highlights strong backend engineering, thoughtful system design, LLM integration patterns, and practical application of agentic reasoning — making it a strong showcase for backend, Java, Python, and AI-adjacent skills in a professional portfolio.
